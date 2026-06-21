@@ -1,4 +1,4 @@
-# VPIN + 3-State HMM Market Regime Analysis
+# Market-State-Risk-Classification
 
 This project uses a **3-state Hidden Markov Model (HMM)** and **VPIN (Volume-Synchronized Probability of Informed Trading)** to analyse market behaviour and identify whether the market is in a relatively calm, uncertain, or high-risk condition.
 
